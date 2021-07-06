@@ -1,8 +1,8 @@
 body{
-    margin-right:100px;
+    margin-right:0px;
 }
 .h1{
-    font-size: 50px;
+    font-size: 70px;
 }
 .orange-color{
     color:orange;
@@ -11,20 +11,18 @@ body{
     color:rgb(71, 68, 68);
 }
 .size{
-    font-size:40px;
+    font-size:50px;
 }
 .flex-part{
     display:flex;
     margin-bottom:10px;
 }
 .half-width{
-    width:50%;
+    width:60%;
+    height:60%;
     padding-left:5%;
     padding-right:5%;
     padding-bottom:5%;
-    
-    
-
 }
 .half-width img{
     width:80%;
@@ -32,7 +30,7 @@ body{
 .large-button{
 text-decoration:none;
 background-image:linear-gradient(rgb(240, 173, 49), tomato);
-padding:10px 40px;
+padding:20px 60px;
 border-radius:50px;
 font-weight:400;
 color:white;
@@ -48,14 +46,24 @@ color:white;
     
 }
 .recipies-items{
-    width: 30%;
+    width:40%;
     margin-left:5%;
     margin-right:5%;
     padding:20px;
-    box-shadow:10px 10px 40px gray;
-    border-radius: 10px;
+    box-shadow:20px 20px 40px gray;
+    border-radius: 20px;
+    margin-bottom:10px;
 }
 .possition{
-    text-align:center;
+     text-align:center;
+     padding: 40px 40px;
+     
     
+}
+.padding-button{
+    padding-bottom:150px ;
+    
+}
+.front-size{
+    font-size:25px;
 }
