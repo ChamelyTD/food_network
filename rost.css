@@ -15,7 +15,7 @@ body{
 }
 .flex-part{
     display:flex;
-    margin-bottom:10px;
+    margin-bottom:2px;
 }
 .half-width{
     width:60%;
